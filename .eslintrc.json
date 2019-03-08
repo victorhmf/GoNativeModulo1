@@ -9,7 +9,7 @@
     "react/jsx-filename-extension": [
       "error",
       {
-        "extensions": [".jsxm", ".js"]
+        "extensions": [".jsx", ".js"]
       }
     ],
     "import/prefer-default-export": "off"
